@@ -1,0 +1,2 @@
+# vaultbot
+Discord Vault Bot
